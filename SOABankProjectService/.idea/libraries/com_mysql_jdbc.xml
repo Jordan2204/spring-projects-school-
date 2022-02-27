@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.mysql.jdbc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../TOUS MES COURS/Cours B.Tech CSE 2020-2021 IUC-SEAS/1st Semester/ADVANCED OOP JAVA/JDBC/com.mysql.jdbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
